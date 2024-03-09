@@ -14203,8 +14203,8 @@ local NotiFrame = Instance.new("Frame")
 		)
 	end  
 if  game.Players.LocalPlayer.Name == "Thor Nè" or  game.Players.LocalPlayer.Name == "danhsaly" then
-DiscordLib:Notification("Thông Báo" , "Chào Bạn, Mình Là Admin Bản DSLSEVERHUB " , 6 ,11816162894)
-    DiscordLib:Notification("Thông Báo" , "Cảm Ơn Bạn Đã Sử Dụng DSLSEVERHUB " , 8,11816162894)
-            DiscordLib:Notification("Thông Báo" , "Chúc Bạn Có Nhiều Sức Khỏe" , 9 ,11816162894) 
-DiscordLib:Notification("Thông Báo" , "Năm Mới Vui Vẻ Và Hạnh Phúc" , 13 ,11816162894)
+DiscordLib:Notification("Thông Báo" , "Chào Bạn, Mình Là Admin Bản DSLSEVERHUB " , 6 ,16677603366)
+    DiscordLib:Notification("Thông Báo" , "Cảm Ơn Bạn Đã Sử Dụng DSLSEVERHUB " , 8,16677603366)
+            DiscordLib:Notification("Thông Báo" , "Chúc Bạn Có Nhiều Sức Khỏe" , 9 ,16677603366) 
+DiscordLib:Notification("Thông Báo" , "Năm Mới Vui Vẻ Và Hạnh Phúc" , 13 ,16677603366)
 end
