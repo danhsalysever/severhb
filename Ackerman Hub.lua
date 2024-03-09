@@ -2,7 +2,7 @@
 𝐷𝐴𝑁𝐻 𝑆𝐴 𝐿𝑌
 ]]
 ---///--------------------------------------------------------------\\\---
-local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
+local Fluent = loadstring(game:HttpGet("https://raw.githubusercontent.com/danhsalysever/severhb/main/Ackerman%20Hub.lua"))()
 local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/SaveManager.lua"))()
 local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 
